@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi there
 
-I'm Cheng Fei, a **Full Stack Developer** from China. I'm a **MEng CS student** at [Cornell University](https://www.cornell.edu/).
+I'm Cheng Fei, a **Full Stack Developer** from China. I'm a **MEng CS student** at [Cornell University](https://tech.cornell.edu/programs/masters-programs/master-in-computer-science/).
 
 ![](https://komarev.com/ghpvc/?username=chengafei)
 
