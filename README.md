@@ -9,7 +9,7 @@ Feel free to contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
 ![WeChat](https://img.shields.io/badge/fc15051860219-07C160?style=flat-square&logo=wechat&logoColor=white)
 
-### 💻 Technologies
+## 💻 Technologies
 
 Front-End
 
@@ -56,7 +56,7 @@ Tools
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-### 📈 My Repo Stats
+## 📈 My Repo Stats
 
 [![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)
 
