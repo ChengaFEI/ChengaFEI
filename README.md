@@ -1,3 +1,5 @@
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true" alt="streak-stats" />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=chengafei)
