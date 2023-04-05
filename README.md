@@ -4,7 +4,7 @@ Welcome to my repo!
 
 I'm Cheng Fei, a **Full Stack Developer**. I'm currenly a **MEng CS student** at [Cornell University](https://tech.cornell.edu/programs/masters-programs/master-in-computer-science/). I'm open to any **internship and full-time opportunities** in **software engineering** and **data science**.
 
-Feel free to contact me via [email](emailto:cf482@cornell.edu) or [linkedin](https://www.linkedin.com/in/cheng-fei-cf482/).
+Feel free to contact me via [email](mailto:cf482@cornell.edu) or [linkedin](https://www.linkedin.com/in/cheng-fei-cf482/).
 
 ![](https://komarev.com/ghpvc/?username=chengafei)
 
