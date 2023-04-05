@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Hello, nice to meet you!
 
 I'm Cheng Fei, a **Full Stack Developer** from China. I'm a **MEng CS student** at [Cornell University](https://tech.cornell.edu/programs/masters-programs/master-in-computer-science/).
 
