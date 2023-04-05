@@ -4,7 +4,7 @@ I'm Cheng Fei, a **Full Stack Developer**. I'm currenly a **MEng CS student** at
 
 Feel free to contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/-cf482@cornell.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf482@cornell.edu)](mailto:cf482@cornell.edu) [![Outlook](https://img.shields.io/badge/-Cheng_a_Fei@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:Cheng_a_Fei@outlook.com)](mailto:Cheng_a_Fei@outlook.com) [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/) ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/-cf482@cornell.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf482@cornell.edu)](mailto:cf482@cornell.edu) [![Outlook](https://img.shields.io/badge/-Cheng_a_Fei@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:Cheng_a_Fei@outlook.com)](mailto:Cheng_a_Fei@outlook.com) [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/) ![WeChat](https://img.shields.io/badge/fc15051860219-07C160?style=flat-square&logo=wechat&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=chengafei)
 
