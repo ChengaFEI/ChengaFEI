@@ -9,6 +9,25 @@ Feel free to contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
 ![WeChat](https://img.shields.io/badge/fc15051860219-07C160?style=flat-square&logo=wechat&logoColor=white)
 
+## 😊 Overview
+
+```java
+public class ChengFei {
+  private static final String NAME = "Cheng Fei";
+  private static final String MAJOR = "Computer Science";
+  private static final String SCHOOL = "Cornell University";
+  private static final String[] pronouns = {"He", "Him"};
+  private String[] roles;
+  private String[] skills;
+  private String[] languages;
+  public ChengFei() {
+    this.roles = new String[]{"Software Engineer", "Machine Learning Engineer"};
+    this.skills = new String[]{"Full Stack Development", "Data Science"};
+    this.languages = new String[]{"Chinese", "English"};
+  }
+}
+```
+
 ## 📝 Open to Roles
 
 - Software Dev Engineer
