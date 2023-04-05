@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p style="text-align: center;">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](https://git.io/streak-stats)</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
