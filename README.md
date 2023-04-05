@@ -1,6 +1,8 @@
 ## 👋 Hello, nice to meet you!
 
-I'm Cheng Fei, a **Full Stack Developer** from China. I'm a **MEng CS student** at [Cornell University](https://tech.cornell.edu/programs/masters-programs/master-in-computer-science/).
+Welcome to my repo!
+
+I'm Cheng Fei, a **Full Stack Developer**. I'm currenly a **MEng CS student** at [Cornell University](https://tech.cornell.edu/programs/masters-programs/master-in-computer-science/). I'm open to any **internship opportunities** in **software engineering** and **data science**. Feel free to contact me via [email](cf482@cornell.edu).
 
 ![](https://komarev.com/ghpvc/?username=chengafei)
 
