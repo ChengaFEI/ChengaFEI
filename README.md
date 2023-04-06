@@ -86,7 +86,7 @@ Tools
 ![Gradle](https://img.shields.io/badge/Gradle-black?style=flat-square&logo=Gradle&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-black?style=flat-square&logo=apache-tomcat&logoColor=black&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-black?style=flat-square&logo=apache-tomcat&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-black?style=flat-square&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-black?style=flat-square&logo=vagrant&logoColor=white)
