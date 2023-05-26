@@ -115,7 +115,7 @@ OS
 
 [![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)
 
-[![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chengafei)
 ![stars](https://img.shields.io/github/stars/chengafei?style=social)
