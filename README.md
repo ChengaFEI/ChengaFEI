@@ -35,7 +35,7 @@ public class ChengFei {
 
 ## 🤖 Projects
 
-[AssetGPT✨ -- an LLM-powered financial analyst platform](https://assetgpt-assetgpt-app-hgtirs.streamlit.app/)
+[AssetGPT✨ -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
 
 ## 💻 Technologies
 
