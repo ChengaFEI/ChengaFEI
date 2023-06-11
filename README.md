@@ -33,6 +33,10 @@ public class ChengFei {
 - Software Dev Engineer
 - Machine Learning Engineer
 
+## 🤖 Projects
+
+[AssetGPT✨ -- an LLM-powered financial analyst platform](https://assetgpt-assetgpt-app-hgtirs.streamlit.app/)
+
 ## 💻 Technologies
 
 Languages
