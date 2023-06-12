@@ -169,7 +169,7 @@ OS
 
 ## 📋 My LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/cf482?border=0&ext=activity)](https://leetcard.jacoblin.cool/cf482)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cf482?border=0&ext=activity)](https://leetcard.jacoblin.cool/cf482)<img src="https://leetcode-badge-showcase.vercel.app/api?username=cf482&theme=light" alt="LeetCode Badges"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chengafei)
 ![stars](https://img.shields.io/github/stars/chengafei?style=social)
