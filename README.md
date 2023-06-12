@@ -166,9 +166,9 @@ OS
 
 <!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook,go)](https://github.com/anuraghazra/github-readme-stats)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/cf482)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=chengafei)
 ![stars](https://img.shields.io/github/stars/chengafei?style=social)
-
-<!-- <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true" alt="streak-stats" /> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook,go)](https://github.com/anuraghazra/github-readme-stats) -->
