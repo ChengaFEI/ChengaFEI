@@ -166,7 +166,7 @@ OS
 
 [![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/cf482)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cf482?border=0&ext=activity)](https://leetcard.jacoblin.cool/cf482)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chengafei)
 ![stars](https://img.shields.io/github/stars/chengafei?style=social)
