@@ -162,11 +162,9 @@ OS
 
 ## 📈 My Repo Stats
 
-[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)
-
 <!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook,go)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook,go)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/cf482)
 
