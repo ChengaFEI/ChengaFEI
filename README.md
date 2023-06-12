@@ -141,6 +141,7 @@ Services
 ![Hostinger](https://img.shields.io/badge/Hostinger-black?style=flat-square&logo=hostinger)
 ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit)
 
 IDE
 
