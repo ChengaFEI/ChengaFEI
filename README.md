@@ -161,11 +161,13 @@ OS
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple)
 
-## 📈 My Stats
+## 📈 My GitHub Stats
 
 <!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 My LeetCode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/cf482?border=0&ext=activity)](https://leetcard.jacoblin.cool/cf482)
 
