@@ -35,7 +35,11 @@ public class ChengFei {
 
 ## 🤖 Projects
 
-[AssetGPT✨ -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
+[🛍️ Buyee -- a full-stack e-commerce web application](https://github.com/ChengaFEI/buyee-springboot-ecommerce)
+
+[✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
+
+[🌏 CarbonAI -- a backend carbon footprint simulator](https://github.com/ChengaFEI/forest-carbon-simulator)
 
 ## 💻 Technologies
 
@@ -167,9 +171,9 @@ OS
 
 [![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ## 📋 My LeetCode Stats -->
+## 📋 My LeetCode Stats
 
-<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/cf482?border=0)](https://leetcard.jacoblin.cool/cf482) -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cf482?border=0)](https://leetcard.jacoblin.cool/cf482)
 
 <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=cf482&theme=light&hide_border=true" alt="LeetCode Badges"/> -->
 
