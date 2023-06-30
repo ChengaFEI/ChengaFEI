@@ -35,11 +35,15 @@ public class ChengFei {
 
 ## 🤖 Projects
 
-[🛍️ Buyee -- a full-stack e-commerce web application](https://github.com/ChengaFEI/buyee-springboot-ecommerce)
+- [🛍️ Buyee -- a full-stack e-commerce web application](https://github.com/ChengaFEI/buyee-springboot-ecommerce)
 
-[✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
+- [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
 
-[🌏 CarbonAI -- a backend carbon footprint simulator](https://github.com/ChengaFEI/forest-carbon-simulator)
+- [🌏 CarbonAI -- a backend carbon footprint simulator](https://github.com/ChengaFEI/forest-carbon-simulator)
+
+## 📖 Blogs
+
+- [📙 Cheng's Tech Blog -- personal development experience](https://techblog.streamlit.app/)
 
 ## 💻 Technologies
 
