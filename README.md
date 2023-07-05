@@ -1,6 +1,6 @@
 ## 👋 Hello, welcome to my repo!
 
-I'm Cheng Fei, a **Full Stack Developer**. I'm currenly a **MEng CS student** at [Cornell University](https://tech.cornell.edu/). I'm open to any **internship and full-time opportunities** in **software engineering** and **data science**.
+I'm Cheng Fei, a **Full Stack Developer**. I'm currently a **MEng CS student** at [Cornell University](https://tech.cornell.edu/). I'm open to any **internship and full-time opportunities** in **software engineering** and **data science**.
 
 Feel free to contact me:
 
