@@ -46,11 +46,11 @@ public class ChengFei {
 
 - [📙 Cheng's Tech Blog -- personal development experience](https://techblog.streamlit.app/)
 
-## 💻 Technologies
+<!-- ## 💻 Technologies -->
 
-Languages
+<!-- Languages -->
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+<!-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
@@ -168,7 +168,7 @@ OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
-![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple) -->
 
 ## 📈 My GitHub Stats
 
