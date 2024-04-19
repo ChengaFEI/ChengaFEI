@@ -22,8 +22,8 @@ public class ChengFei {
   private String[] skills;
   private String[] languages;
   public ChengFei() {
-    this.roles = new String[]{"Software Engineer", "Machine Learning Engineer"};
-    this.skills = new String[]{"Full Stack Development", "Data Science"};
+    this.roles = new String[]{"Machine Learning Engineer"};
+    this.skills = new String[]{"Machine Learning Engineering", "Data Science"};
     this.languages = new String[]{"Chinese", "English"};
   }
 }
@@ -35,22 +35,22 @@ public class ChengFei {
 
 ## 🤖 Projects
 
-- [🚀 MiniTorch -- PyTorch Core Modules Rebuilt](https://github.com/ChengaFEI/mini-torch)
+- [🚀 MiniTorch -- a mini-version of core PyTorch modules](https://github.com/ChengaFEI/mini-torch)
 
-- [![image](https://github.com/ChengaFEI/ChengaFEI/assets/78616996/52c28019-ad11-4b47-8561-06eecd701851)]()
+- [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/ChengaFEI/text-transformer)
+
+- [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/ChengaFEI/dqn-driven-route-planner)
+
+- [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/ChengaFEI/dqn-driven-route-planner)
 
 - [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
-
-## 📖 Blogs
-
-- [📙 Cheng's Tech Blog -- personal development experience](https://techblog.streamlit.app/)
 
 <!-- ## 💻 Technologies -->
 
 <!-- Languages -->
 
-<!-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<!-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
