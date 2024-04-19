@@ -31,16 +31,15 @@ public class ChengFei {
 
 ## 📝 Open to Roles
 
-- Software Dev Engineer
 - Machine Learning Engineer
 
 ## 🤖 Projects
 
-- [🛍️ Buyee -- a full-stack e-commerce web application](https://github.com/ChengaFEI/buyee-springboot-ecommerce)
+- [🚀 MiniTorch -- PyTorch Core Modules Rebuilt](https://github.com/ChengaFEI/mini-torch)
+
+- [![image](https://github.com/ChengaFEI/ChengaFEI/assets/78616996/52c28019-ad11-4b47-8561-06eecd701851)]()
 
 - [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
-
-- [🌏 CarbonAI -- a backend carbon footprint simulator](https://github.com/ChengaFEI/forest-carbon-simulator)
 
 ## 📖 Blogs
 
