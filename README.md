@@ -29,6 +29,18 @@ public class ChengFei {
 }
 ``` -->
 
+```python
+class ChengFei:
+    def __init__(self):
+        self.name = "Cheng Fei"
+        self.major = "Computer Science"
+        self.school = "Cornell University"
+        self.pronouns = ["he", "him", "his"]
+        self.roles = ["Machine Learning Engineer", "Data Scientist"]
+        self.skills = ["Machine Learning Engineering", "Data Science"]
+        self.languages = ["English", "Chinese"]
+```
+
 ## 📝 Open to Roles
 
 - Machine Learning Engineer
