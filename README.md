@@ -36,9 +36,11 @@ class ChengFei:
         self.major = "Computer Science"
         self.school = "Cornell University"
         self.pronouns = ["he", "him", "his"]
+        self.languages = ["English", "Chinese"]
+
         self.roles = ["Machine Learning Engineer", "Data Scientist"]
         self.skills = ["Machine Learning Engineering", "Data Science"]
-        self.languages = ["English", "Chinese"]
+        self.tools = ["PyTorch", "Tensorflow", "Keras"]
 ```
 
 ## 📝 Open to Roles
