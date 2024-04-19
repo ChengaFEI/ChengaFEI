@@ -61,8 +61,8 @@ class ChengFei:
 
 <!-- Languages -->
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <!-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
