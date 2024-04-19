@@ -12,7 +12,7 @@ Feel free to contact me:
 
 ## 😊 Overview
 
-```java
+<!-- ```java
 public class ChengFei {
   private static final String NAME = "Cheng Fei";
   private static final String MAJOR = "Computer Science";
@@ -27,7 +27,7 @@ public class ChengFei {
     this.languages = new String[]{"Chinese", "English"};
   }
 }
-```
+``` -->
 
 ## 📝 Open to Roles
 
