@@ -59,6 +59,8 @@ class ChengFei:
 
 - [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
 
+- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/ChengaFEI/llm-driven-red-teaming)
+
 <!-- ## 💻 Technologies -->
 
 <!-- Languages -->
