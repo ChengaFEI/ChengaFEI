@@ -190,7 +190,7 @@ OS
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple) -->
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
