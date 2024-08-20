@@ -1,12 +1,12 @@
 ## 👋 Hello, welcome to my repo!
 
-I'm Cheng Fei, a **Machine Learning Engineer**. I'm currently a **MEng CS student** at [Cornell University](https://tech.cornell.edu/). I'm open to any **internship and full-time opportunities** in **machine learning** and **artificial intelligence**.
+I'm Cheng Fei, a **Machine Learning Engineer**. I'm currently a **Machine Learning Engineer II** at AWS Annarpurna Labs. I'm open to any **Machine Learning Engineer** or **Applied Scientist** job opportunities.
 
 Feel free to contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/-cf482@cornell.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf482@cornell.edu)](mailto:cf482@cornell.edu)
+[![Gmail Badge](https://img.shields.io/badge/-cfei6388@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cfei6388@gmail.com)](mailto:cfei6388@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
-![WeChat](https://img.shields.io/badge/fc13482281021-07C160?style=flat-square&logo=wechat&logoColor=white)
+<!-- ![WeChat](https://img.shields.io/badge/fc13482281021-07C160?style=flat-square&logo=wechat&logoColor=white) -->
 
 <!-- [![Outlook](https://img.shields.io/badge/-Cheng_a_Fei@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:Cheng_a_Fei@outlook.com)](mailto:Cheng_a_Fei@outlook.com) -->
 
@@ -46,26 +46,31 @@ class ChengFei:
 ## 📝 Open to Roles
 
 - Machine Learning Engineer
+- Applied Scientist (LLM)
 
-## 🤖 Projects
-
-- [🚀 MiniTorch -- a mini-version of core PyTorch modules](https://github.com/ChengaFEI/mini-torch)
+## 🤖 Projects - Deep Neural Networks (DNN)
 
 - [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/ChengaFEI/text-transformer)
+
+- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/ChengaFEI/llm-driven-red-teaming)
+
+- [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
 
 - [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/ChengaFEI/dqn-driven-route-planner)
 
 - [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/ChengaFEI/dqn-driven-route-planner)
 
-- [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
+- [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
 
-- [⛳ LLM Red Teaming -- a LLM-powered red teaming platform](https://github.com/ChengaFEI/llm-driven-red-teaming)
+- [🚀 MiniTorch -- a mini-version of core PyTorch modules](https://github.com/ChengaFEI/mini-torch)
 
-## 📚 Studies
+## 📚 Projects - High Performance Computing (HPC)
 
-- [🧑‍💻 Tech Notes -- ongoing efforts in studying state-of-the-art technologies](https://github.com/orgs/TechDailyNotes/repositories?type=source)
+- [🎯 Cuda Programming -- a collection of GPU CUDA kernel optimizations](https://github.com/TechDailyNotes/study-notes-cuda)
 
-- [📝 Courseworks -- assignments in computer science courses](https://github.com/orgs/CSCourseWorks/repositories?type=source)
+- [🔱 Triton Programming -- a collection of GPU Triton server optimizations](https://github.com/TechDailyNotes/study-notes-triton)
+
+<!-- - [📝 Courseworks -- assignments in computer science courses](https://github.com/orgs/CSCourseWorks/repositories?type=source) -->
 
 <!-- ## 💻 Technologies -->
 
