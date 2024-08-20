@@ -1,34 +1,14 @@
 ## 👋 Hello, welcome to my repo!
 
-I'm Cheng Fei, a **Machine Learning Engineer**. I'm currently a **Machine Learning Engineer II** at AWS Annarpurna Labs. I'm open to any **Machine Learning Engineer** or **Applied Scientist** job opportunities.
+I'm [Cheng Fei](https://www.linkedin.com/in/cheng-fei-cf482/), a **Machine Learning Engineer** at AWS Annarpurna Labs, with expertise in Large Language Models (**LLM**), Deep Neural Networks (**DNN**), and High Performance Computing (**HPC**).
 
 <!-- Feel free to contact me: -->
-[![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-cfei6388@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cfei6388@gmail.com)](mailto:cfei6388@gmail.com) -->
-<!-- ![WeChat](https://img.shields.io/badge/fc13482281021-07C160?style=flat-square&logo=wechat&logoColor=white) -->
 
-<!-- [![Outlook](https://img.shields.io/badge/-Cheng_a_Fei@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:Cheng_a_Fei@outlook.com)](mailto:Cheng_a_Fei@outlook.com) -->
+<!-- ## 😊 Overview -->
 
-## 😊 Overview
-
-<!-- ```java
-public class ChengFei {
-  private static final String NAME = "Cheng Fei";
-  private static final String MAJOR = "Computer Science";
-  private static final String SCHOOL = "Cornell University";
-  private static final String[] PRONOUNS = {"He", "Him"};
-  private String[] roles;
-  private String[] skills;
-  private String[] languages;
-  public ChengFei() {
-    this.roles = new String[]{"Machine Learning Engineer"};
-    this.skills = new String[]{"Machine Learning Engineering", "Data Science"};
-    this.languages = new String[]{"Chinese", "English"};
-  }
-}
-``` -->
-
-```python
+<!-- ```python
 class ChengFei:
     def __init__(self):
         self.name = "Cheng Fei"
@@ -40,14 +20,14 @@ class ChengFei:
         self.roles = ["Machine Learning Engineer", "Data Scientist"]
         self.skills = ["Machine Learning Engineering", "Data Science"]
         self.tools = ["PyTorch", "Tensorflow", "Keras"]
-```
+``` -->
 
 ## 📝 Open to Roles
 
+- Applied Scientist
 - Machine Learning Engineer
-- Applied Scientist (LLM)
 
-## 🤖 Projects - Deep Neural Networks (DNN)
+## 🤖 Projects - Deep Neural Networks (LLM/DNN)
 
 - [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/ChengaFEI/text-transformer)
 
