@@ -64,6 +64,7 @@ class ChengFei:
 ## 📚 Studies
 
 - [🧑‍💻 Tech Notes -- ongoing efforts in studying state-of-the-art technologies](https://github.com/orgs/TechDailyNotes/repositories?type=source)
+
 - [📝 Courseworks -- assignments in computer science courses](https://github.com/orgs/CSCourseWorks/repositories?type=source)
 
 <!-- ## 💻 Technologies -->
