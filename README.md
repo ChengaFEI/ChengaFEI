@@ -4,7 +4,7 @@ I'm Cheng Fei, a **Machine Learning Engineer**. I'm currently a **Machine Learni
 
 Feel free to contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/-cfei6388@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cfei6388@gmail.com)](mailto:cfei6388@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-cfei6388@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cfei6388@gmail.com)](mailto:cfei6388@gmail.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
 <!-- ![WeChat](https://img.shields.io/badge/fc13482281021-07C160?style=flat-square&logo=wechat&logoColor=white) -->
 
