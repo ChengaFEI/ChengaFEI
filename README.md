@@ -2,10 +2,8 @@
 
 I'm Cheng Fei, a **Machine Learning Engineer**. I'm currently a **Machine Learning Engineer II** at AWS Annarpurna Labs. I'm open to any **Machine Learning Engineer** or **Applied Scientist** job opportunities.
 
-Feel free to contact me:
-
+Feel free to contact me: [![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
 <!-- [![Gmail Badge](https://img.shields.io/badge/-cfei6388@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cfei6388@gmail.com)](mailto:cfei6388@gmail.com) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Cheng_Fei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheng-fei-cf482/)](https://www.linkedin.com/in/cheng-fei-cf482/)
 <!-- ![WeChat](https://img.shields.io/badge/fc13482281021-07C160?style=flat-square&logo=wechat&logoColor=white) -->
 
 <!-- [![Outlook](https://img.shields.io/badge/-Cheng_a_Fei@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:Cheng_a_Fei@outlook.com)](mailto:Cheng_a_Fei@outlook.com) -->
