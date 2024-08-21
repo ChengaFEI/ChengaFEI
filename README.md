@@ -43,7 +43,7 @@ class ChengFei:
 
 - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
 
-## 📚 Projects - High Performance Computing (HPC)
+## 🌌 Projects - High Performance Computing (HPC)
 
 - [🎯 CUDA Programming -- a collection of CUDA kernel optimizations for GPU](https://github.com/TechDailyNotes/study-notes-cuda)
 
@@ -52,6 +52,10 @@ class ChengFei:
 - [🧬 Neuron Programming -- a collection of Neuron distributed training optimizations for Trainium Accelerator](https://github.com/TechDailyNotes/study-notes-neuron)
 
 - [🔀 Parallel C++ Programming -- a collection of parallel computing optimizations in C++](https://github.com/TechDailyNotes/study-notes-cpp-parallel)
+
+## 📙 Blogs - Machine Learning Technologies
+
+- [🌐 DNN Explained -- a detailed explanation of SOTA DNN models](https://github.com/TechDailyNotes/study-notes-dnn-models.git)
 
 ## 📈 GitHub Stats
 
