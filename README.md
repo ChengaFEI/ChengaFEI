@@ -35,7 +35,7 @@ class ChengFei:
 
 - [✨ AssetGPT -- an LLM-powered financial analyst platform](https://assetgpt.streamlit.app//)
 
-- [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/ChengaFEI/dqn-driven-route-planner)
+- [🏙 CNN Classifier -- a CNN-driven architecture style classifier](https://github.com/ChengaFEI/cnn-driven-architecture-style-classifier)
 
 - [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/ChengaFEI/dqn-driven-route-planner)
 
