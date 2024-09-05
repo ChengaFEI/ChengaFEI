@@ -56,6 +56,7 @@ class ChengFei:
 ## 📙 Blogs - SOTA Machine Learning Technologies
 
 - [🌐 DNN Model Explained -- a detailed explanation of SOTA DNN models](https://github.com/CSWorkNotes/apl-study-model)
+
 - [📜 DNN Paper Explained -- a detailed explanation of SOTA DNN papers](https://github.com/CSResearchProjects/llm-su24-survey)
 
 ## 📈 GitHub Stats
