@@ -53,15 +53,16 @@ class ChengFei:
 
 - [🔀 Parallel C++ Programming -- a collection of parallel computing optimizations in C++](https://github.com/TechDailyNotes/study-notes-cpp-parallel)
 
-## 📙 Blogs - Machine Learning Technologies
+## 📙 Blogs - SOTA Machine Learning Technologies
 
-- [🌐 DNN Explained -- a detailed explanation of SOTA DNN models](https://github.com/TechDailyNotes/study-notes-dnn-models.git)
+- [🌐 DNN Model Explained -- a detailed explanation of SOTA DNN models](https://github.com/CSWorkNotes/apl-study-model)
+- [📜 DNN Paper Explained -- a detailed explanation of SOTA DNN papers](https://github.com/CSResearchProjects/llm-su24-survey)
 
 ## 📈 GitHub Stats
 
 <!-- [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengafei&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheng's Current Streak](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)](http://github-readme-streak-stats.herokuapp.com?user=chengafei&theme=transparent&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengafei&theme=transparent&layout=compact&langs_count=8&hide=html,javascript,css,typescript,swift,scss,rich%20text%20format,yacc,haskell,makefile,batchfile,lex&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 📋 My LeetCode Stats -->
 
