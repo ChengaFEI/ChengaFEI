@@ -39,7 +39,7 @@ class ChengFei:
 
 - [🚘 DQN Route Planner -- a DQN-driven route planner](https://github.com/ChengaFEI/dqn-driven-route-planner)
 
-- [🚀 MiniTorch -- a mini-version of core PyTorch modules](https://github.com/ChengaFEI/mini-torch)
+- [⚙️ MiniTorch -- a mini-version of core PyTorch modules](https://github.com/ChengaFEI/mini-torch)
 
 - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
 
@@ -58,6 +58,8 @@ class ChengFei:
 - [🌐 DNN Model Explained -- a detailed explanation of SOTA DNN models](https://github.com/CSWorkNotes/apl-study-model)
 
 - [📜 DNN Paper Explained -- a detailed explanation of SOTA DNN papers](https://github.com/CSResearchProjects/llm-su24-survey)
+
+- [🚀 LLM Optimization Explained -- a detailed explanation of SOTA LLM optimization techniques](https://github.com/TechDailyNotes/study-notes-llm-optimization)
 
 ## 📈 GitHub Stats
 
