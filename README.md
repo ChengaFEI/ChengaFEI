@@ -27,7 +27,7 @@ class ChengFei:
 - Applied Scientist
 - Machine Learning Engineer
 
-## 🤖 Projects - Deep Neural Networks (LLM/DNN)
+## 🤖 Projects - Large Language Models (LLM/DNN)
 
 - [🏭 Transformer -- a decoder-only character-level transformer for text generation](https://github.com/ChengaFEI/text-transformer)
 
@@ -53,11 +53,11 @@ class ChengFei:
 
 - [🔀 Parallel C++ Programming -- a collection of parallel computing optimizations in C++](https://github.com/TechDailyNotes/study-notes-cpp-parallel)
 
-## 📙 Blogs - SOTA Machine Learning Technologies
+## 📙 Blogs - SOTA LLM Researches
 
-- [🌐 DNN Model Explained -- a detailed explanation of SOTA DNN models](https://github.com/CSWorkNotes/apl-study-model)
+- [🌐 LLM Model Explained -- a detailed explanation of SOTA LLM models](https://github.com/CSWorkNotes/apl-study-model)
 
-- [📜 DNN Paper Explained -- a detailed explanation of SOTA DNN papers](https://github.com/CSResearchProjects/llm-su24-survey)
+- [📜 LLM Paper Explained -- a detailed explanation of SOTA LLM papers](https://github.com/CSResearchProjects/llm-su24-survey)
 
 - [🚀 LLM Optimization Explained -- a detailed explanation of SOTA LLM optimization techniques](https://github.com/TechDailyNotes/study-notes-llm-optimization)
 
