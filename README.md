@@ -57,7 +57,7 @@ class ChengFei:
 
 - [🌐 LLM Model Explained -- a detailed explanation of SOTA LLM models](https://github.com/CSWorkNotes/apl-study-model)
 
-- [📜 LLM Paper Explained -- a detailed explanation of SOTA LLM papers](https://github.com/CSResearchProjects/llm-su24-survey)
+- [📜 LLM Paper Explained -- a detailed explanation of SOTA LLM papers](https://github.com/TechDailyNotes/study-notes-llm-paper)
 
 - [🚀 LLM Optimization Explained -- a detailed explanation of SOTA LLM optimization techniques](https://github.com/TechDailyNotes/study-notes-llm-optimization)
 
