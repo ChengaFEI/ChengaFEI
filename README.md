@@ -22,7 +22,7 @@ class ChengFei:
         self.tools = ["PyTorch", "Tensorflow", "Keras"]
 ``` -->
 
-## 📝 Open to Roles
+## 👨‍💻 Open to Roles
 
 - Applied Scientist
 - Machine Learning Engineer
@@ -56,6 +56,14 @@ class ChengFei:
 ## 📙 Blogs - SOTA LLM Researches
 
 - [🌐 LLM Research Explained -- a detailed explanation of SOTA LLM researches and technologies](https://handsome-sword-d35.notion.site/LLM-Research-Explained-16e2d34d69a88077a7c4cc1a24f47041)
+
+## 📚 Blogs - Technology Stack Cheatsheets
+
+- [📝 SDE Cheatsheet - a collection of popular software engineering technology stacks]()
+  
+- [📝 MLE Cheatsheet - a collection of popular machine learning engineering technology stacks](https://chengafei.github.io/MLE-Cheatsheet/)
+
+- [📝 AS Cheatsheet - a collection of popular applied science research technology stacks]()
 
 ## 📈 GitHub Stats
 
