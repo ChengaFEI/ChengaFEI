@@ -24,8 +24,8 @@ class ChengFei:
 
 ## 👨‍💻 Open to Roles
 
-- Applied Scientist
 - Machine Learning Engineer
+- Applied Scientist
 
 ## 🤖 Projects - Large Language Models (LLM/DNN)
 
