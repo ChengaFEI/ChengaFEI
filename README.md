@@ -61,9 +61,9 @@ class ChengFei:
 
 - [📄 SDE Cheatsheet - a collection of popular software engineering technology stacks](https://cscheatsheets.github.io/sde-cheatsheet/)
   
-- [📜 MLE Cheatsheet - a collection of popular machine learning engineering technology stacks](https://cscheatsheets.github.io/mle-cheatsheet/)
+- [📜 AS/MLE Cheatsheet - a collection of popular applied science research or machine learning engineering technology stacks](https://cscheatsheets.github.io/mle-cheatsheet/)
 
-- [📃 AS Cheatsheet - a collection of popular applied science research technology stacks](https://cscheatsheets.github.io/mle-cheatsheet/)
+<!-- - [📃 AS Cheatsheet - a collection of popular applied science research technology stacks](https://cscheatsheets.github.io/mle-cheatsheet/) -->
 
 ## 📈 GitHub Stats
 
