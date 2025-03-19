@@ -59,7 +59,7 @@ class ChengFei:
 
 ## 📚 Blogs - Technology Stack Cheatsheets
 
-- [📄 SDE Cheatsheet - a collection of popular software engineering technology stacks](https://cscheatsheets.github.io/mle-cheatsheet/)
+- [📄 SDE Cheatsheet - a collection of popular software engineering technology stacks](https://cscheatsheets.github.io/sde-cheatsheet/)
   
 - [📜 MLE Cheatsheet - a collection of popular machine learning engineering technology stacks](https://cscheatsheets.github.io/mle-cheatsheet/)
 
