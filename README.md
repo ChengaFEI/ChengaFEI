@@ -49,6 +49,8 @@ class ChengFei:
 
 - [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt](https://github.com/ChengaFEI/diffusers.git)
 
+- [🚀 vLLM from Scratch -- a collection of vLLM models rebuilt](https://github.com/ChengaFEI/vllm.git)
+
 ## 🌌 Projects - High Performance Computing (HPC)
 
 - [🎯 CUDA Programming -- a collection of CUDA kernel optimizations for GPU](https://github.com/TechDailyNotes/study-notes-cuda)
