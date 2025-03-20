@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2b4851e3-f809-4a04-9d1b-e2e0b4c6b094)![image](https://github.com/user-attachments/assets/a25dbc21-ac01-470b-aa3e-a7b2ab7edebd)![image](https://github.com/user-attachments/assets/490a31b6-79c3-4afa-b4a6-a8bb673bbc22)## 👋 Hello, welcome to my repo!
+👋 Hello, welcome to my repo!
 
 I'm [Cheng Fei](https://www.linkedin.com/in/cheng-fei-cf482/), a **Machine Learning Engineer** at AWS Annarpurna Labs, with expertise in Large Language Models (**LLM**), Deep Neural Networks (**DNN**), and High Performance Computing (**HPC**).
 
@@ -46,6 +46,8 @@ class ChengFei:
 ## 😋 Projects - LLMs from Scratch
 
 - [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/ChengaFEI/transformers.git)
+
+- [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt]()
 
 ## 🌌 Projects - High Performance Computing (HPC)
 
