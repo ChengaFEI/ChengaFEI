@@ -47,7 +47,7 @@ class ChengFei:
 
 - [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/ChengaFEI/transformers.git)
 
-- [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt]()
+- [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt](https://github.com/ChengaFEI/diffusers.git)
 
 ## 🌌 Projects - High Performance Computing (HPC)
 
