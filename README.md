@@ -1,4 +1,4 @@
-## 👋 Hello, welcome to my repo!
+![image](https://github.com/user-attachments/assets/2b4851e3-f809-4a04-9d1b-e2e0b4c6b094)![image](https://github.com/user-attachments/assets/a25dbc21-ac01-470b-aa3e-a7b2ab7edebd)![image](https://github.com/user-attachments/assets/490a31b6-79c3-4afa-b4a6-a8bb673bbc22)## 👋 Hello, welcome to my repo!
 
 I'm [Cheng Fei](https://www.linkedin.com/in/cheng-fei-cf482/), a **Machine Learning Engineer** at AWS Annarpurna Labs, with expertise in Large Language Models (**LLM**), Deep Neural Networks (**DNN**), and High Performance Computing (**HPC**).
 
@@ -43,6 +43,10 @@ class ChengFei:
 
 - [🔥 PyTorch Programming -- a collection of DNN implementations in PyTorch](https://github.com/TechDailyNotes/study-notes-pytorch)
 
+## 😋 Projects - LLMs from Scratch
+
+- [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/ChengaFEI/transformers.git)
+
 ## 🌌 Projects - High Performance Computing (HPC)
 
 - [🎯 CUDA Programming -- a collection of CUDA kernel optimizations for GPU](https://github.com/TechDailyNotes/study-notes-cuda)
@@ -57,7 +61,7 @@ class ChengFei:
 
 - [🌐 LLM Research Explained -- a detailed explanation of SOTA LLM researches and technologies](https://handsome-sword-d35.notion.site/LLM-Research-Explained-16e2d34d69a88077a7c4cc1a24f47041)
 
-## 📚 Blogs - Technology Stack Cheatsheets
+## 📚 Blogs - CS Cheatsheets
 
 - [📄 SDE Cheatsheet - a collection of popular software engineering technology stacks](https://cscheatsheets.github.io/sde-cheatsheet/)
   
