@@ -45,11 +45,11 @@ class ChengFei:
 
 ## 😋 Projects - LLMs from Scratch
 
-- [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/ChengaFEI/transformers.git)
+- [👽 Transformers from Scratch -- a collection of transformer models rebuilt](https://github.com/LLMFromScratch/re_transformers.git)
 
-- [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt](https://github.com/ChengaFEI/diffusers.git)
+- [🎨 Diffusers from Scratch -- a collection of diffusion models rebuilt](https://github.com/LLMFromScratch/re_diffusers.git)
 
-- [🚀 vLLM from Scratch -- a collection of vLLM models rebuilt](https://github.com/ChengaFEI/vllm.git)
+- [🚀 vLLM from Scratch -- a collection of vLLM models rebuilt](https://github.com/LLMFromScratch/re_vllm.git)
 
 ## 🌌 Projects - High Performance Computing (HPC)
 
